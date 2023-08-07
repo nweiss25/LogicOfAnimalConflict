@@ -30,6 +30,11 @@ class animal:
         self.injured = True
         self.gain -= 100
 
+    def clear(self):
+        self.injured = False
+        self.gain = 0
+        
+        
 class mouse(animal):
     def __init__(self):
         self.injured = False
