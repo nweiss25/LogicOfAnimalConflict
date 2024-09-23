@@ -9,7 +9,7 @@ from random import random
 def simulation(a1, a2):
     win = 60 #win value
     n = 0   #total payoff across sims
-    t = 20000  #numeber of sims
+    t = 20000  #number of sims
     for i in range(t):
 
         #alternate between who goes first and second
