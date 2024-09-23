@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 '''
 The code I created for the MATH40A final project
-recreating teh results of the Logic of Animal Conflict Paper '''
+recreating the results of the Logic of Animal Conflict Paper '''
 import animal
 import pandas as pd
 from random import random
